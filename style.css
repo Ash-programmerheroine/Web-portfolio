@@ -55,6 +55,7 @@ section{height: 500px;
     border-image:linear-gradient(180deg,rgb(4, 0, 255),cyan);
     border-image-slice: 1;
 }
+.gray{color:gray}
 footer{
     text-align: center;
     font-weight: 700;
